@@ -1,5 +1,3 @@
-# Potato-Disease-Classification-using-CNN
-This project aims to classify diseases in potato plants using Convolutional Neural Networks (CNNs). The deep learning model is trained on a dataset of potato plant images to identify and categorize different diseases affecting the crops.
 
 
 # Overview
@@ -18,8 +16,4 @@ The dataset used for this project comprises high-resolution images of healthy an
 # Results
 The trained model achieves an accuracy of 99% on the test set. Detailed evaluation metrics and visualizations can be found in the Results notebook.
 
-# Contributing
-Feel free to contribute by opening issues, proposing enhancements, or submitting pull requests. Your feedback is highly appreciated.
 
-# License
-This project is licensed under the MIT License.
